@@ -11,9 +11,9 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Undergraduate students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Staff](#staff), [graudate students](#graduate-students),  [undergraudate students](#undergraduate-students),[alumni](#alumni).
+Jump to [principle investigators](#principle-investigators), [graudate students](#graduate-students),  [undergraudate students](#undergraduate-students),[alumni](#alumni).
 
-## Staff
+## Principle Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

@@ -1,9 +1,15 @@
 - name: Sam Gu
-  role: Staff
+  role: Principle Investigator
   email: ####
   number_educ: 3
   education1: B.S. Peking University, China
   education2: Ph.D. University of California Santa Cruz with <a href="https://mcd.ucsc.edu/people/faculty-emeriti/alan-zahler/">Dr. Alan Zahler</a> 
   education3: Postdoc Stanford University with <a href="https://firelab.stanford.edu/">Dr. Andrew Fire</a> 
 
-
+- name: Julie Ni
+  role: Principle Investigator
+  email: ####
+  number_educ: 3
+  education1: B.S. East China Normal University, China
+  education2: Ph.D. University of California Santa Cruz with <a href="https://mcd.ucsc.edu/people/faculty-emeriti/manuel-ares-jr/">Dr. Manuel Ares, Jr</a> 
+  education3: Postdoc Stanford University with <a href="https://med.stanford.edu/profiles/matthew-scott">Dr. Matthew Scott</a> 

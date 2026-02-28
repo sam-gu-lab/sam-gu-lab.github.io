@@ -1,18 +1,15 @@
 ---
-title: "Allan Lab - Home"
+title: "Gu Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Gu Lab at Rutgers University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
-
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+The Gu lab in the Department of Molecular Biology and Biochemistry at Rutgers University has two overarching goals: first, 
+**to understand how cells distinguish between self and nonself genetic material**, including transposons, repeat DNA, and transgenes. Second, **to discovery novel RNA- and chromatin-based structures and mechanisms** that drives stress-induced transgenerational epigenetic inheritance. 
+To achieve these goals, we use the model organism C. elegans and integrate genetics, biochemistry, cell biology, and computational biology. By revealing how the genome and epigenome are regulated and inherited, our work lays a fundamental foundation for advances in medicine.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

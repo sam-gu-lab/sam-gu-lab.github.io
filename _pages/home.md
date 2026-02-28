@@ -1,7 +1,7 @@
 ---
 title: "Gu Lab - Home"
 layout: homelay
-excerpt: "Gu Lab at Rutgers University &rarr; LMU."
+excerpt: "Gu Lab at Rutgers University"
 sitemap: false
 permalink: /
 ---
@@ -9,7 +9,7 @@ permalink: /
 
 The Gu lab in the Department of Molecular Biology and Biochemistry at Rutgers University has two overarching goals: first, 
 **to understand how cells distinguish between self and nonself genetic material**, including transposons, repeat DNA, and transgenes. Second, **to discovery novel RNA- and chromatin-based structures and mechanisms** that drives stress-induced transgenerational epigenetic inheritance. 
-To achieve these goals, we use the model organism C. elegans and integrate genetics, biochemistry, cell biology, and computational biology. By revealing how the genome and epigenome are regulated and inherited, our work lays a fundamental foundation for advances in medicine.
+To achieve these goals, we use the model organism *C. elegans* and integrate genetics, biochemistry, cell biology, and computational biology. By revealing how the genome and epigenome are regulated and inherited, our work lays a fundamental foundation for advances in medicine.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
